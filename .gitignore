@@ -3,3 +3,4 @@ trush/
 .ipynb_checkpoints/
 *.txt
 *.csv
+.DS_Store
